@@ -35,3 +35,6 @@ The program takes the student's name, number of subjects, and marks for each sub
 - Scanner Class
 - Conditional Statements
 - Loops
+
+## Working Video
+https://drive.google.com/file/d/1ceQHzD6b-7yPob1RWa3UwqPVqhCoRpGf/view?usp=drivesdk
